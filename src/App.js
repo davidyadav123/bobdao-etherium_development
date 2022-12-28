@@ -81,7 +81,7 @@ function App() {
         {/* DESCRIPTION  */}
         <div className="description">
           <h1>Greeter.sol</h1>
-          <h3>Full stack dapp using ReactJS and Hardhat</h3>
+          <h3>THIS IS MY FIRST PROJECT</h3>
         </div>
         {/* BUTTONS - Fetch and Set */}
         <div className="custom-buttons">
